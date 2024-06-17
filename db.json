@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "title": "primeira tarefa",
+      "completed": false,
+      "createdAt": "",
+      "updatedAt": "",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "segunda tarefa",
+      "completed": false,
+      "createdAt": "",
+      "updatedAt": "",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "terceira tarefa",
+      "completed": false,
+      "createdAt": "",
+      "updatedAt": "",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "title": "tarefa do joao",
+      "userId": 3,
+      "id": 4
+    },
+    {
+      "title": "Teste",
+      "userId": 2,
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "daniel@server.com",
+      "id": 1
+    },
+    {
+      "email": "maria@server.com",
+      "id": 2
+    },
+    {
+      "email": "joao@server.com",
+      "id": 3
+    }
+  ]
+}
